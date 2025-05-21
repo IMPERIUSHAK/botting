@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "65d/0hAtd4g=",
+  "success": true,
+  "projectFilePath": "/home/guts/Projects/botting/Botting/Botting.csproj",
+  "expectedPackageFiles": [
+    "/home/guts/.nuget/packages/selenium.webdriver/4.32.0/selenium.webdriver.4.32.0.nupkg.sha512",
+    "/home/guts/.nuget/packages/selenium.webdriver.chromedriver/136.0.7103.9400/selenium.webdriver.chromedriver.136.0.7103.9400.nupkg.sha512"
+  ],
+  "logs": []
+}
